@@ -1,3 +1,3 @@
 # My progress
 
-some new progress
+LAST PROGRESS ON GIT
